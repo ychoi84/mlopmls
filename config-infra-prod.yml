@@ -19,4 +19,4 @@ variables:
 
   # For pipeline reference
   resource_group: gl-dec24-pro
-  aml_workspace: practice2
+  aml_workspace: project2
